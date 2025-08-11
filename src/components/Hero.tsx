@@ -3,7 +3,7 @@ import { ChevronDown, Download, Linkedin } from 'lucide-react';
 
 const Hero = () => {
   const handleDownloadResume = () => {
-    window.open('https://raw.githubusercontent.com/dataGuyJojo/About_Johan/main/Resume.pdf', '_blank');
+    window.open('https://raw.githubusercontent.com/dataGuyJojo/Portfolio/main/Resume.pdf', '_blank');
   };
 
   const handleGetInTouch = () => {
